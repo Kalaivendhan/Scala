@@ -1,0 +1,7 @@
+A fork from argonaut - https://github.com/argonaut-io/argonaut
+Provides generic codec derivation using shapeless 
+  - https://jto.github.io/articles/getting-started-with-shapeless/
+  - https://stackoverflow.com/questions/21739190/can-someone-explain-to-me-what-the-shapeless-library-is-for
+  - https://github.com/milessabin/shapeless
+Support lot of data types by default
+  - Extension packages for additional datatypes
